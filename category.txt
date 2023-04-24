@@ -1,0 +1,7 @@
+<Route exact path='/' element={<News country={"in"} category={business}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={entertainment}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={general}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={health}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={science}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={sports}pageSize={pageSize} />}/>
+<Route exact path='/' element={<News country={"in"} category={technology}pageSize={pageSize} />}/>
